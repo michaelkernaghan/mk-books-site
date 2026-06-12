@@ -1,6 +1,6 @@
-# mk-books-site
+# mk-bookstore-site
 
-Public business website for **MK Books** — a sole proprietorship based in Mission, BC selling military history, classic cookery, and rare older books exclusively through our [AbeBooks storefront](https://www.abebooks.com/servlet/StoreFrontDisplay?cid=91160525).
+Public business website for **MK Bookstore** — a sole proprietorship based in Mission, BC selling military history, classic cookery, and rare older books exclusively through our [AbeBooks storefront](https://www.abebooks.com/servlet/StoreFrontDisplay?cid=91160525).
 
 This site exists so that Stripe's account-activation review can verify the business. There is no on-site checkout.
 
