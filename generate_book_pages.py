@@ -94,7 +94,7 @@ CATALOG_TEMPLATE = """<!DOCTYPE html>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Books for Sale — MK Bookstore</title>
-  <meta name="description" content="All {count} books currently for sale at MK Bookstore: military history, classic cookery, mathematics and science, and rare older titles. Sold via AbeBooks.">
+  <meta name="description" content="All {count} books currently for sale at MK Bookstore: military history, science and mathematics, literary fiction, and rare older titles. Sold via AbeBooks.">
   <link rel="canonical" href="{base}/books/">
   <link rel="stylesheet" href="../styles.css">
 </head>
